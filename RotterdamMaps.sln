@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashAxLib", "FlashAxLib\FlashAxLib.csproj", "{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form", "Form\Form.csproj", "{542A447C-667B-4999-8D87-7936C19CE887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surface", "Surface\Surface.csproj", "{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://145.24.222.161/tfs/cmiprj78
+		SccProjectUniqueName0 = FlashAxLib\\FlashAxLib.csproj
+		SccProjectName0 = FlashAxLib
+		SccLocalPath0 = FlashAxLib
+		SccProjectUniqueName1 = Form\\Form.csproj
+		SccProjectName1 = Form
+		SccLocalPath1 = Form
+		SccProjectUniqueName2 = Surface\\Surface.csproj
+		SccProjectName2 = Surface
+		SccLocalPath2 = Surface
+		SccLocalPath3 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F5FDAEE5-6F70-41F0-B3AE-CC63EAB91F0A}.Release|x86.ActiveCfg = Release|Any CPU
+		{542A447C-667B-4999-8D87-7936C19CE887}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Debug|x86.ActiveCfg = Debug|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Debug|x86.Build.0 = Debug|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Release|Any CPU.ActiveCfg = Release|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Release|Mixed Platforms.Build.0 = Release|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Release|x86.ActiveCfg = Release|x86
+		{542A447C-667B-4999-8D87-7936C19CE887}.Release|x86.Build.0 = Release|x86
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BA73F9B1-957D-4800-9FD4-1B95D6C5DF3A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

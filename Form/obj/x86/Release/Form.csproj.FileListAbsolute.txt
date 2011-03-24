@@ -1,0 +1,17 @@
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\App.g.cs
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form_Content.g.cs
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form_MarkupCompile.cache
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form.g.resources
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form.Properties.Resources.resources
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Arnold\workspace\RotterdamMaps\Form\bin\Release\Rotterdam.swf
+C:\Users\Arnold\workspace\RotterdamMaps\Form\bin\Release\Form.exe
+C:\Users\Arnold\workspace\RotterdamMaps\Form\bin\Release\Form.pdb
+C:\Users\Arnold\workspace\RotterdamMaps\Form\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\Form\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\MyWindow.baml
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\MyWindow.g.cs
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form.exe
+C:\Users\Arnold\workspace\RotterdamMaps\Form\obj\x86\Release\Form.pdb

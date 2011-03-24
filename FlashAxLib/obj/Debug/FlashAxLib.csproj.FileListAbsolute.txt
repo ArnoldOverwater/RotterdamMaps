@@ -1,0 +1,13 @@
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\bin\Debug\FlashAxLib.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\bin\Debug\FlashAxLib.pdb
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\FlashAxLib.csproj.ResolveComReference.cache
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\FlashAxLib.FlashAxControl.resources
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\FlashAxLib.dll
+C:\Users\Arnold\workspace\RotterdamMaps\FlashAxLib\obj\Debug\FlashAxLib.pdb
