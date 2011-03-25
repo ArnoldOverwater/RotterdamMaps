@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
-	<maps:Map3D xmlns:maps="com.google.maps.*" id="map" mapevent_mapready="onMapReady(event)" width="100%" height="100%" key="your_api_key" sensor="true" />
+	<maps:Map3D xmlns:maps="com.google.maps.*" id="map" countryCode="NL" language="nl" mapevent_mapready="onMapReady(event)" width="100%" height="100%" key="your_api_key" sensor="false" />
 	<mx:Script source="Rotterdam.as" />
 </mx:Application>
